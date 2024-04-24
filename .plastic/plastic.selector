@@ -1,0 +1,4 @@
+repository "AR_Mixer_TestPro@yumna_abri@cloud"
+  path "/"
+    br "/main"
+    co "/main"

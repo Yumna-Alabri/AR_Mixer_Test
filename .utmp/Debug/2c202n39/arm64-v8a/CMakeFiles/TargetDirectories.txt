@@ -1,0 +1,5 @@
+C:/Users/yaaal/Unity Projects/AR_Mixer_Test/AR_Mixer_TestPro/.utmp/Debug/2c202n39/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/yaaal/Unity Projects/AR_Mixer_Test/AR_Mixer_TestPro/.utmp/Debug/2c202n39/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/yaaal/Unity Projects/AR_Mixer_Test/AR_Mixer_TestPro/.utmp/Debug/2c202n39/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/yaaal/Unity Projects/AR_Mixer_Test/AR_Mixer_TestPro/.utmp/Debug/2c202n39/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/yaaal/Unity Projects/AR_Mixer_Test/AR_Mixer_TestPro/.utmp/Debug/2c202n39/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

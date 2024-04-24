@@ -1,0 +1,5 @@
+1. Light Red:#E93342
+2. Red:#9D1F35
+3. Green: #525751
+4. Light Blue: #415067
+5. Blue: #16335D

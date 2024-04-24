@@ -4,7 +4,31 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0.Home_Scene.unity
+    guid: 9244ac50bc5595349ac9c985411445b4
+  - enabled: 1
+    path: Assets/Scenes/1.Placement_Scene.unity
+    guid: fc63b9c073e3b1543b71bc58ad3301a8
+  - enabled: 1
+    path: Assets/Scenes/2.PlaceOnPlane_Scene.unity
+    guid: da69e8693c8cf8a4ea5d33017414ebac
+  - enabled: 1
+    path: Assets/Scenes/3.PlaceOnImage_Scene.unity
+    guid: 75911e65ce869ed489ba5ff6c4f1584a
+  - enabled: 1
+    path: Assets/Scenes/4.HowToUse_Scene.unity
+    guid: 5bd14a10a11e3e347a28e3ac1189d48f
+  - enabled: 1
+    path: Assets/Scenes/5.Recipe_Scene.unity
+    guid: 32e13f81b677da947b5744498ea42453
+  - enabled: 1
+    path: Assets/Scenes/6.Cleaning_Scene.unity
+    guid: 88d992bb0c4ab7b48a01309f6a9ad44e
+  - enabled: 1
+    path: Assets/Scenes/7.Maintenance_Scene.unity
+    guid: c2c7f63fde1410540a8a60e699c8064a
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
       type: 2}
